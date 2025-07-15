@@ -1,0 +1,16 @@
+.gradle/
+.vscode/
+*.log
+*.tmp
+*.bin
+*.hprof
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Music/
+OneDrive/
+Pictures/
+Videos/
