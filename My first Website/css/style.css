@@ -39,3 +39,21 @@ a{
     font-weight: bold;
     transition: color 0.3s;
 }
+.nav-links a:hover{
+    color: #ff6347;
+}
+.menu-toggle{
+    display: none;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.hero{
+    height:100vh;
+    background: linear-gradient(to right,#ff7e5f,#feb47b);
+    display: flex;
+    
+}
